@@ -1,7 +1,7 @@
 # School_District_Analysis
 Module 4 Challenge
 
-## Overview of the school district analysis: 
+## Overview: 
 Explain the purpose of this analysis.
 
 ## Results: 
